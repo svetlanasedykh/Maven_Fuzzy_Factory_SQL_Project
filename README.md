@@ -1,4 +1,4 @@
-Maven Fuzzy Factory eCommerce Analysis
+## Maven Fuzzy Factory SQL Analysis
 
 ![Project_cover](Cover.png)
 
